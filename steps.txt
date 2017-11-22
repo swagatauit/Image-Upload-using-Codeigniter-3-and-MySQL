@@ -1,0 +1,7 @@
+1. Download Codeigniter 3
+2. Create Image Upload form
+3. Create data base
+4. Create table in database
+5. Create image folder to save images
+6. Create image upload function
+7. Save image url in data base
